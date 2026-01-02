@@ -74,14 +74,6 @@ I focus on writing clean code, implementing domain-driven design principles, and
 - Type-safe APIs and scalable database design
 - Focus on maintainability and long-term scalability
 
-**[Expense Tracker Application →](https://github.com/Tasheen2002/3rd-year-2nd-semester-project)**  
-*TypeScript, Next.js, PostgreSQL, Prisma*
-
-- Full-stack application with modular monolithic architecture
-- Clean domain separation following DDD fundamentals
-- Real-time expense tracking and analytics dashboard
-- Database modeling with Prisma ORM
-
 **[MERN E-Commerce Platform →](https://github.com/Tasheen2002/Web-Application-Project-3-Year)**  
 *MongoDB, Express.js, React, Node.js*
 
@@ -157,11 +149,11 @@ I'm actively seeking **Associate Software Engineer** positions where I can contr
 
 **Let's connect!** Feel free to reach out for collaboration or opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasheen-darshika-6bb7ba250/)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshikatasheen99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navon-sanjuni-a796502b0/)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navonsanjuni178@gmail.com)
 
 ---
 
-⭐️ **Building clean, reliable, and well-structured software** | [Tasheen2002](https://github.com/Tasheen2002)
+⭐️ **Building clean, reliable, and well-structured software** | [navonsanjuni](https://github.com/navonsanjuni)
 
 </div>
