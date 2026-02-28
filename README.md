@@ -61,55 +61,6 @@ I focus on writing clean code, implementing domain-driven design principles, and
 
 ---
 
-## Featured Projects
-
-### Professional & Enterprise Projects
-
-**Enterprise E-Commerce Platform** (Current - Internship)  
-*TypeScript, Next.js, PostgreSQL, Prisma*  
-🔒 *Private Repository - Company Project*
-
-- Building production-grade e-commerce system for enterprise clients
-- Implementing modular monolithic architecture with DDD principles
-- Type-safe APIs and scalable database design
-- Focus on maintainability and long-term scalability
-
-**[MERN E-Commerce Platform →](https://github.com/Tasheen2002/Web-Application-Project-3-Year)**  
-*MongoDB, Express.js, React, Node.js*
-
-- Complete e-commerce solution with shopping cart and checkout
-- User authentication and authorization system
-- Product catalog with search and filtering
-- Admin panel for inventory management
-
-### Academic & Team Projects
-
-**[Fuel Master →](https://github.com/HasinthakaPiyumal/fuel-master)** (Group Project)  
-*Full-Stack Development*
-
-- Fuel management system for fleet operations
-- Vehicle tracking and fuel consumption analytics
-- Multi-user role-based access control
-- Report generation for operational insights
-
-### Mobile Applications
-
-**[Task Manager Application →](https://github.com/Tasheen2002/projectX)**  
-*Mobile Development*
-
-- Task management with CRUD operations
-- Clean and intuitive user interface
-- Local data persistence
-
-**[Habit Tracker →](https://github.com/Tasheen2002/Habit-Tracker-Mobile)**  
-*Mobile Development*
-
-- Daily habit tracking with progress monitoring
-- Streak tracking and visual analytics
-- Reminder notifications
-
----
-
 ## Currently Learning
 
 <div align="center">
