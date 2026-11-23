@@ -84,7 +84,7 @@ University of Kelaniya | 2022 - Present
 
 ## Experience
 
-**Software Engineering Intern** | *2024 - Present*  
+**Software Engineering Intern** |*Atlato PTY Ltd*| *2025 August - 2026 February*  
 - Developing enterprise-level e-commerce platform
 - Implementing modular monolithic architecture
 - Working with TypeScript, Next.js, PostgreSQL stack
